@@ -37,7 +37,7 @@ a.link {
 }
 
 main > section {
-    width:100%;
+    max-width:100%;
     height: 600px;
 }
 
@@ -56,7 +56,7 @@ p.texto-imagem {
     font-weight: bold;
     font-size: 1.5em;
     text-align: justify;
-    width: 14em;
+    max-width: 14em;
     background-color: rgba(0, 0, 0, 0.473);
     position: absolute;
     top: 3em;
